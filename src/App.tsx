@@ -1,5 +1,5 @@
 function App() {
-  return <div>TikeTeko</div>;
+  return <></>;
 }
 
 export default App;
